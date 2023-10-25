@@ -4,8 +4,13 @@ function hasKey(key) {
   //   write your code here
 
 	if(sampleObject.key=="#FF0000"||sampleObject.key=="#00FF00"||sampleObject.key=="#FFFFFF")
+	{
 		return true;
-	return false;
+	}
+	else
+	{
+		return false;
+	}
 }
 
 // Do not change the code below
