@@ -9,7 +9,7 @@ function hasKey(key) {
 	}
 	else
 	{
-		return false;
+		return true;
 	}
 }
 
